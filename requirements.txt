@@ -1,0 +1,11 @@
+keras
+numpy
+urllib3
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+gensim
+pillow
+regex
+tensorflow-gpu==1.6

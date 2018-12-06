@@ -1,0 +1,1 @@
+IMAGES_DATASETS = ['cifar10', 'svhn']
