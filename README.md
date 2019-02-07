@@ -6,6 +6,15 @@ The code for the paper ["Adversarially Learned Anomaly Detection" (authors: Hous
 Please reach us via emails or via github issues for any enquiries!
 
 Please cite our work if you find it useful for your research and work.
+```
+@article{Zenati2018AdversariallyLA,
+  title={Adversarially Learned Anomaly Detection},
+  author={Houssam Zenati and Manon Romain and Chuan Sheng Foo and Bruno Lecouat and Vijay R. Chandrasekhar},
+  journal={2018 IEEE International Conference on Data Mining (ICDM)},
+  year={2018},
+  pages={727-736}
+}
+```
 
 ## Prerequisites.
 To run the code, follow those steps:
